@@ -5,4 +5,6 @@ Windows Registry Editor Version 5.00
 "Icon"="%USERPROFILE%\\AppData\\Local\\terminal\\wt_32.ico"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\wt\command]
-@="C:\\Users\\dj\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
+@="C:\\Users\\D_Jaye\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
+; 修改此处为你的home地址
+; @="C:\\Users\\dj\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
